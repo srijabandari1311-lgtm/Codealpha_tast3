@@ -1,2 +1,5 @@
 # Codealpha_tast3
 The Artificial Intelligence Chatbot is a Java-based application designed to simulate human-like conversations with users. The chatbot uses Natural Language Processing (NLP) techniques and rule-based or machine learning logic to understand user queries and provide relevant responses. It can answer frequently asked questions (FAQs)
+The Artificial Intelligence Chatbot is a Java-based application designed to simulate human-like conversations with users. The chatbot uses Natural Language Processing (NLP) techniques and rule-based or machine learning logic to understand user queries and provide relevant responses. It can answer frequently asked questions (FAQs), assist users with information retrieval, and engage in interactive communication.
+
+The chatbot analyzes user input, identifies keywords or intent, and generates appropriate responses. The system can be trained with predefined question-answer pairs and expanded with machine learning algorithms for improved accuracy. For a better user experience, the chatbot can be integrated with a GUI using Java Swing/
